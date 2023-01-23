@@ -1,5 +1,4 @@
 import "./App.css";
-import Countdown from "react-countdown";
 import { useState } from "react";
 
 const Select = ({ lang, setLang }) => {
